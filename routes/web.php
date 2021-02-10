@@ -19,3 +19,10 @@ Route::get('/', function () {
 Route::get('sec', function () {
     return view('secondpage');
 });
+Route::get('contact', function () {
+    return view('contacts');
+});
+
+Route::get('news', function () {
+    return view('news');
+});
