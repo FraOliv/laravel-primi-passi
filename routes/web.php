@@ -16,6 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('bloggettino', function () {
-    return view('bloggettino');
+Route::get('sec', function () {
+    return view('secondpage');
 });

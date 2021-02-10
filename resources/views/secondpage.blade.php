@@ -17,6 +17,8 @@
 <body>
 
     @include('partials.header')
+
+    <h1>TEST PAGINA 2</h1>
     @include('partials.main')
     @include('partials.footer')
    
