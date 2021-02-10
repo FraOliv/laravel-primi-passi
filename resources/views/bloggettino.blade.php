@@ -207,7 +207,7 @@
     <section class="navigation">
         <div class="nav-container">
             <div class="brand">
-                <a href="bloggettino">Logo</a>
+                <a href="/">Laravel kicks ass</a>
             </div>
             <nav>
                 <div class="nav-mobile"><a id="navbar-toggle" href="#!"><span></span></a></div>
